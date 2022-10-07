@@ -1,0 +1,3300 @@
+{
+  
+  "shapesWeb": [
+    {
+      "path": "/common/56f14907-2cf3-49ff-ac5f-d80cdbd0c27d.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 863,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "square_000000.svg",
+      "width": 1080,
+      "previewPath": "/common/57554794-ba56-4d90-a478-02ed49dae5a8.png",
+      "mediaAsset": true,
+      "mediaId": "6315925b2da6b05c2a4947bc",
+      "id": "6315925b2da6b05c2a4947bc",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6315ac3a2da6b05c2af54c78",
+        "mediaId": "6315925b2da6b05c2a4947bc",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "6002a27c100d87b2a60ad553",
+        "folderOrder": "756500",
+        "favoriteType": "object",
+        "favoriteMediaId": "6315925b2da6b05c2a4947bc"
+      }
+    },
+    {
+      "path": "/common/6368e14a-62b2-4c14-8e55-18e71c45194c.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 469,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Figure03_549508736.svg",
+      "width": 1080,
+      "previewPath": "/common/241bf3ab-cc3c-493c-90f9-0e30b6f1d5d5.png",
+      "mediaAsset": true,
+      "mediaId": "6311f2f42da6b05c2a31ea81",
+      "id": "6311f2f42da6b05c2a31ea81",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6311fa982da6b05c2a8b44a2",
+        "mediaId": "6311f2f42da6b05c2a31ea81",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "6002a27c100d87b2a60ad553",
+        "folderOrder": "756000",
+        "favoriteType": "object",
+        "favoriteMediaId": "6311f2f42da6b05c2a31ea81"
+      }
+    },
+    {
+      "path": "/common/b18e86a0-d6bb-4526-b015-1a57d2d101fa.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Shape17_547093638.svg",
+      "width": 1080,
+      "previewPath": "/common/d4f8aa4d-dd5b-4285-b4fd-d1a3491f8d73.png",
+      "mediaAsset": true,
+      "mediaId": "6299b669079dcd93631f1882",
+      "id": "6299b669079dcd93631f1882",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6299c817079dcd93639207f9",
+        "mediaId": "6299b669079dcd93631f1882",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "6002a27c100d87b2a60ad553",
+        "folderOrder": "755750",
+        "favoriteType": "object",
+        "favoriteMediaId": "6299b669079dcd93631f1882"
+      }
+    },
+    {
+      "path": "/common/f9f89281-fb5c-49c7-b4ce-c584ae7585b7.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1038,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "set03_524163192.svg",
+      "width": 1080,
+      "previewPath": "/common/57bb2640-7239-4203-bc8c-b24729a2ff90.png",
+      "mediaAsset": true,
+      "mediaId": "6315925e2da6b05c2a4975ee",
+      "id": "6315925e2da6b05c2a4975ee",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6315b4552da6b05c2a490f88",
+        "mediaId": "6315925e2da6b05c2a4975ee",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "6002a27c100d87b2a60ad553",
+        "folderOrder": "755500",
+        "favoriteType": "object",
+        "favoriteMediaId": "6315925e2da6b05c2a4975ee"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": false,
+      "height": 1080,
+      "meta": {
+        "vectorType": "shape"
+      },
+      "originalName": "Colorful (37).svg",
+      "path": "/assets/ff6b1f65-5bee-4f2a-a77e-3789e7f3f0da.svg",
+      "width": 1080,
+      "previewPath": "/previews/bcd67c66-c672-4b37-8fc4-7134bddd4816.png",
+      "mediaAsset": true,
+      "mediaId": "5f620671a637ee11e37d1c7c",
+      "id": "5f620671a637ee11e37d1c7c",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6002a41da637ee11e3d2dbde",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "mediaId": "5f620671a637ee11e37d1c7c",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "6002a27c100d87b2a60ad553",
+        "folderOrder": "754500",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f620671a637ee11e37d1c7c"
+      }
+    },
+    {
+      "path": "/common/92b4db4a-63e6-4c95-a7af-6856e7014730.svg",
+      "elementType": "svgElement",
+      "forSubscribers": false,
+      "height": 1080,
+      "meta": {
+        "vectorType": "shape"
+      },
+      "originalName": "reshape_01.svg",
+      "width": 1080,
+      "previewPath": "/common/ff3726f9-4074-461a-8971-ac572ddd7627.png",
+      "mediaAsset": true,
+      "mediaId": "62986f55079dcd9363ce8515",
+      "id": "62986f55079dcd9363ce8515",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "62986fdd079dcd9363d991e6",
+        "mediaId": "62986f55079dcd9363ce8515",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "6002a27c100d87b2a60ad553",
+        "folderOrder": "747000",
+        "favoriteType": "object",
+        "favoriteMediaId": "62986f55079dcd9363ce8515"
+      }
+    },
+    {
+      "path": "/common/b357679d-c65e-4f7e-845b-49a58ccffd3c.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Shape02_547093638.svg",
+      "width": 1080,
+      "previewPath": "/common/0039bb59-b5a2-423e-b3c3-ea71e0f5ea99.png",
+      "mediaAsset": true,
+      "mediaId": "6299b6ca079dcd936326f176",
+      "id": "6299b6ca079dcd936326f176",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6299c6bf079dcd936375b645",
+        "mediaId": "6299b6ca079dcd936326f176",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "6002a27c100d87b2a60ad553",
+        "folderOrder": "746000",
+        "favoriteType": "object",
+        "favoriteMediaId": "6299b6ca079dcd936326f176"
+      }
+    },
+    {
+      "path": "/common/3a8441fb-228a-48a1-969a-544f07bed35c.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "couple02_514708046.svg",
+      "width": 803,
+      "previewPath": "/common/d95cc8da-d8ba-4a4b-a351-c103bd3dd298.png",
+      "mediaAsset": true,
+      "mediaId": "62e10a4230af96f650da821e",
+      "id": "62e10a4230af96f650da821e",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "62e126f030af96f65095bcdd",
+        "mediaId": "62e10a4230af96f650da821e",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "6002a27c100d87b2a60ad553",
+        "folderOrder": "745000",
+        "favoriteType": "object",
+        "favoriteMediaId": "62e10a4230af96f650da821e"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": false,
+      "height": 1080,
+      "meta": {
+        "vectorType": "shape"
+      },
+      "originalName": "Warm (1).svg",
+      "path": "/assets/c5276541-37bd-4340-b973-1a9d959f20ec.svg",
+      "width": 1080,
+      "previewPath": "/previews/98f6ac25-7f7b-4e66-834b-c02116bdb207.png",
+      "mediaAsset": true,
+      "mediaId": "5f620674a637ee11e37d2c56",
+      "id": "5f620674a637ee11e37d2c56",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6002a422a637ee11e3d2e406",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "mediaId": "5f620674a637ee11e37d2c56",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "6002a27c100d87b2a60ad553",
+        "folderOrder": "744000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f620674a637ee11e37d2c56"
+      }
+    },
+    {
+      "path": "/common/aef32336-5d1b-4ce2-b18b-2d38e2d0d5d2.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Shape04_547093638.svg",
+      "width": 1080,
+      "previewPath": "/common/2527b020-7032-46a0-96d4-b06d8d44dbd1.png",
+      "mediaAsset": true,
+      "mediaId": "6299b6cc079dcd93632725f4",
+      "id": "6299b6cc079dcd93632725f4",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6299c637079dcd93636a5f8f",
+        "mediaId": "6299b6cc079dcd93632725f4",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "6002a27c100d87b2a60ad553",
+        "folderOrder": "743000",
+        "favoriteType": "object",
+        "favoriteMediaId": "6299b6cc079dcd93632725f4"
+      }
+    }
+  ],
+  "christmasAndNewYear": [
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 776,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Christmas8_000000.png",
+      "path": "/assets/2bf870d4-aa0e-40d6-a427-989193cc705e.png",
+      "width": 655,
+      "mediaAsset": true,
+      "mediaId": "5fa17747a637ee11e3ac1a2e",
+      "id": "5fa17747a637ee11e3ac1a2e",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5fa17c09a637ee11e3c467e5",
+        "userId": "5f8d481ea637ee11e3d8f3e2",
+        "mediaId": "5fa17747a637ee11e3ac1a2e",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5f9c26d7657ad05c7778deaf",
+        "folderOrder": "564000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "5fa17747a637ee11e3ac1a2e"
+      }
+    },
+    {
+      "path": "/common/e7690eaf-9a89-461d-a29f-f1651799cad3.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 807,
+      "meta": {},
+      "originalName": "Winter04_470620396.svg",
+      "width": 1080,
+      "previewPath": "/common/3aafbc5a-d8f4-4f8c-ac3d-136fd5aa0627.png",
+      "mediaAsset": true,
+      "mediaId": "619b679b079dcd9363045700",
+      "id": "619b679b079dcd9363045700",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "619b6d39079dcd936378d311",
+        "mediaId": "619b679b079dcd9363045700",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f9c26d7657ad05c7778deaf",
+        "folderOrder": "563500",
+        "favoriteType": "object",
+        "favoriteMediaId": "619b679b079dcd9363045700"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1581,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "xmasset12_319506878.svg",
+      "path": "/assets/bc7e4050-5002-4646-8f88-c10adc6a3383.svg",
+      "width": 1080,
+      "previewPath": "/previews/084be4d4-2b3b-425f-9d9a-ccd762ec8a1d.png",
+      "mediaAsset": true,
+      "mediaId": "5fa14f7ba637ee11e3e1667d",
+      "id": "5fa14f7ba637ee11e3e1667d",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5fa1534fa637ee11e3f387f4",
+        "mediaId": "5fa14f7ba637ee11e3e1667d",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f9c26d7657ad05c7778deaf",
+        "folderOrder": "562000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5fa14f7ba637ee11e3e1667d"
+      }
+    }
+  ],
+  "plasticsFilms": [
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 7373,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "NewPlastics04_317957162.png",
+      "path": "/assets/c2cde985-307e-4d96-a542-17bdf2635871.png",
+      "width": 5821,
+      "mediaAsset": true,
+      "mediaId": "60658ae6a637ee11e3dc1a77",
+      "id": "60658ae6a637ee11e3dc1a77",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60658b7fa637ee11e3df0885",
+        "mediaId": "60658ae6a637ee11e3dc1a77",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60658b57132d8e9dd9b23eb3",
+        "folderOrder": "89000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60658ae6a637ee11e3dc1a77"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 4001,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Plastic05_313431378.png",
+      "path": "/assets/8d1a7132-0f6b-4ffd-93d0-2cd33f9ae1f8.png",
+      "width": 4001,
+      "mediaAsset": true,
+      "mediaId": "60658adea637ee11e3dbdc49",
+      "id": "60658adea637ee11e3dbdc49",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60658bd3a637ee11e3e0b7d7",
+        "mediaId": "60658adea637ee11e3dbdc49",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60658b57132d8e9dd9b23eb3",
+        "folderOrder": "86500",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60658adea637ee11e3dbdc49"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 1729,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Plastic23_451018100.png",
+      "path": "/assets/b0750752-b252-4853-85b4-6659765a5f0f.png",
+      "width": 1691,
+      "mediaAsset": true,
+      "mediaId": "60658ae7a637ee11e3dc2644",
+      "id": "60658ae7a637ee11e3dc2644",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60658b6aa637ee11e3deab90",
+        "mediaId": "60658ae7a637ee11e3dc2644",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60658b57132d8e9dd9b23eb3",
+        "folderOrder": "85875",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60658ae7a637ee11e3dc2644"
+      }
+    }
+  ],
+  "socialMedia": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 200,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Facebook7_000000.svg",
+      "path": "/assets/05bb030d-beb5-428f-a796-ced6f87e84d9.svg",
+      "width": 200,
+      "previewPath": "/previews/e42ec128-693b-45a4-8055-f6834da5f0fb.png",
+      "mediaAsset": true,
+      "mediaId": "5f6870b5a637ee11e3fdc0f0",
+      "id": "5f6870b5a637ee11e3fdc0f0",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f6872d2a637ee11e303781b",
+        "mediaId": "5f6870b5a637ee11e3fdc0f0",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f686e7dea48e06e4b8e230a",
+        "folderOrder": "105000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f6870b5a637ee11e3fdc0f0"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 4778,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Instagram1_000000.png",
+      "path": "/assets/a853258b-a627-4f03-86c9-35dcb757082f.png",
+      "width": 4778,
+      "mediaAsset": true,
+      "mediaId": "5f687707a637ee11e30e1f08",
+      "id": "5f687707a637ee11e30e1f08",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f687712a637ee11e30e3a27",
+        "mediaId": "5f687707a637ee11e30e1f08",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5f686e7dea48e06e4b8e230a",
+        "folderOrder": "104000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "5f687707a637ee11e30e1f08"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 162,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Twitter7_000000.svg",
+      "path": "/assets/ce9d1163-1bba-425c-bfec-836695f9a136.svg",
+      "width": 200,
+      "previewPath": "/previews/fc902dd6-a6a8-49b0-a154-361a15daec00.png",
+      "mediaAsset": true,
+      "mediaId": "5f6870bba637ee11e3fdd6ba",
+      "id": "5f6870bba637ee11e3fdd6ba",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f6872a2a637ee11e302f6f2",
+        "mediaId": "5f6870bba637ee11e3fdd6ba",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f686e7dea48e06e4b8e230a",
+        "folderOrder": "103000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f6870bba637ee11e3fdd6ba"
+      }
+    }
+  ],
+  "masks": [
+    {
+      "path": "/free-assets/4f5ea549-5d84-4b4e-a7ba-18e54793198b.svg",
+      "originalName": "Depositphotos_56812999_2.svg",
+      "elementType": "maskElement",
+      "width": 300,
+      "height": 289,
+      "previewPath": "/free-assets/6890a4f5-c477-4ab5-82f6-d8bb52325d73.png",
+      "meta": {
+        "vectorType": "mask"
+      },
+      "videoPreviewPath": "",
+      "forSubscribers": false,
+      "mediaAsset": true,
+      "mediaId": "5a141cf6d8141396fe996ca2",
+      "id": "5a141cf6d8141396fe996ca2",
+      "isFreeItem": false,
+      "favoriteItem": {
+        "id": "5f341fcca637ee11e3d08f55",
+        "userId": "5942755379c13f001e996375",
+        "mediaId": "5a141cf6d8141396fe996ca2",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "maskElement",
+        "hasAnimation": false,
+        "folderId": "5f217d53db21d5c301d530ee",
+        "folderOrder": "288000",
+        "favoriteType": "object",
+        "favoriteMediaId": "5a141cf6d8141396fe996ca2"
+      }
+    },
+    {
+      "path": "/free-assets/d786456f-aa1a-47e6-929b-fb50211e4dfd.svg",
+      "originalName": "FrameFree_18.svg",
+      "elementType": "maskElement",
+      "width": 250,
+      "height": 250,
+      "previewPath": "/free-assets/ba45744b-ddf7-4580-a017-d3b1b4fd4c3a.png",
+      "meta": {
+        "vectorType": "mask"
+      },
+      "videoPreviewPath": "",
+      "forSubscribers": false,
+      "mediaAsset": true,
+      "mediaId": "5a141d30d8141396fe996d05",
+      "id": "5a141d30d8141396fe996d05",
+      "isFreeItem": false,
+      "favoriteItem": {
+        "id": "5f341fcea637ee11e3d0969b",
+        "userId": "5942755379c13f001e996375",
+        "mediaId": "5a141d30d8141396fe996d05",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "maskElement",
+        "hasAnimation": false,
+        "folderId": "5f217d53db21d5c301d530ee",
+        "folderOrder": "287000",
+        "favoriteType": "object",
+        "favoriteMediaId": "5a141d30d8141396fe996d05"
+      }
+    },
+    {
+      "path": "/free-assets/44b686b2-0bbd-408d-a0e7-29244de96743.svg",
+      "originalName": "Depositphotos_44804373_1.svg",
+      "elementType": "maskElement",
+      "width": 299,
+      "height": 304,
+      "previewPath": "/free-assets/3c7f67f7-90d7-4298-97d7-11685f7029c0.png",
+      "meta": {
+        "vectorType": "mask"
+      },
+      "videoPreviewPath": "",
+      "forSubscribers": false,
+      "mediaAsset": true,
+      "mediaId": "5a141cf1d8141396fe996c97",
+      "id": "5a141cf1d8141396fe996c97",
+      "isFreeItem": false,
+      "favoriteItem": {
+        "id": "5f341fcca637ee11e3d08dc2",
+        "userId": "5942755379c13f001e996375",
+        "mediaId": "5a141cf1d8141396fe996c97",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "maskElement",
+        "hasAnimation": false,
+        "folderId": "5f217d53db21d5c301d530ee",
+        "folderOrder": "286000",
+        "favoriteType": "object",
+        "favoriteMediaId": "5a141cf1d8141396fe996c97"
+      }
+    }
+  ],
+  "shadows": [
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 3685,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "PlantsShadows79_457752332.png",
+      "path": "/assets/30d0f9f9-f98e-4895-b3a6-143d1763c3da.png",
+      "width": 4166,
+      "mediaAsset": true,
+      "mediaId": "60757b15a637ee11e3932836",
+      "id": "60757b15a637ee11e3932836",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60757bc6a637ee11e396fdf4",
+        "mediaId": "60757b15a637ee11e3932836",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60757a963cb67787e466f8a2",
+        "folderOrder": "199000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60757b15a637ee11e3932836"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 4501,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "WindowShadows20_374641288.png",
+      "path": "/assets/94841971-1090-4322-8774-d2bc515dccc5.png",
+      "width": 4500,
+      "mediaAsset": true,
+      "mediaId": "60757734a637ee11e37e3f08",
+      "id": "60757734a637ee11e37e3f08",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60757bcaa637ee11e39714a6",
+        "mediaId": "60757734a637ee11e37e3f08",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60757a963cb67787e466f8a2",
+        "folderOrder": "198000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60757734a637ee11e37e3f08"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 3824,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "HandShadows02_457752304.png",
+      "path": "/assets/d806270c-3712-4816-8d73-c296bc74becc.png",
+      "width": 4018,
+      "mediaAsset": true,
+      "mediaId": "607577e2a637ee11e3820a66",
+      "id": "607577e2a637ee11e3820a66",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60757ab1a637ee11e390dd36",
+        "mediaId": "607577e2a637ee11e3820a66",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60757a963cb67787e466f8a2",
+        "folderOrder": "197000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "607577e2a637ee11e3820a66"
+      }
+    }
+  ],
+  "lines": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 196,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Line_08.svg",
+      "path": "/assets/ed8268e9-d399-4b3b-9ba6-1e9581114ddc.svg",
+      "width": 1080,
+      "previewPath": "/previews/b43b235c-c029-4ae7-a303-000641e418b7.png",
+      "mediaAsset": true,
+      "mediaId": "5fb3b75da637ee11e31ea880",
+      "id": "5fb3b75da637ee11e31ea880",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5fb3dfbfa637ee11e3ed0bca",
+        "mediaId": "5fb3b75da637ee11e31ea880",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f217d5118b479ff586180b5",
+        "folderOrder": "348000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5fb3b75da637ee11e31ea880"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 540,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Line_14.svg",
+      "path": "/assets/21334301-7d62-4f76-a581-1268f9a5857e.svg",
+      "width": 979,
+      "mediaAsset": true,
+      "mediaId": "5fb3b75ba637ee11e31e96e2",
+      "id": "5fb3b75ba637ee11e31e96e2",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5fb3e07aa637ee11e3f12526",
+        "mediaId": "5fb3b75ba637ee11e31e96e2",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f217d5118b479ff586180b5",
+        "folderOrder": "347000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5fb3b75ba637ee11e31e96e2"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 255,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Line_262.svg",
+      "path": "/assets/9432cc3e-392b-43db-95b5-6703c4bb8497.svg",
+      "width": 1080,
+      "mediaAsset": true,
+      "mediaId": "5fb3d323a637ee11e3a09d42",
+      "id": "5fb3d323a637ee11e3a09d42",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5fb3df1da637ee11e3e91ef1",
+        "mediaId": "5fb3d323a637ee11e3a09d42",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f217d5118b479ff586180b5",
+        "folderOrder": "346000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5fb3d323a637ee11e3a09d42"
+      }
+    }
+  ],
+  "arrows": [
+    {
+      "path": "/assets/90bbb1eb-3d63-40d8-8cda-27ca4a56054d.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 866,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "NewArrow163_10268938.svg",
+      "width": 1079,
+      "previewPath": "/previews/c1672ed4-2f48-49ef-8829-013d9410fdee.png",
+      "mediaAsset": true,
+      "mediaId": "60cb05c9a637ee11e394dda8",
+      "id": "60cb05c9a637ee11e394dda8",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60cb2784a637ee11e3346b5f",
+        "mediaId": "60cb05c9a637ee11e394dda8",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f51f2f14f6f91b5756b85aa",
+        "folderOrder": "530000",
+        "favoriteType": "object",
+        "favoriteMediaId": "60cb05c9a637ee11e394dda8"
+      }
+    },
+    {
+      "path": "/assets/dcdcfac8-2512-4e65-b35a-a32b5923a262.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 316,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "NewArrow03_281374650.svg",
+      "width": 1080,
+      "previewPath": "/previews/92298000-dd6c-45c7-842d-e7e609913320.png",
+      "mediaAsset": true,
+      "mediaId": "60cb04d9a637ee11e3900d57",
+      "id": "60cb04d9a637ee11e3900d57",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60cb32a2a637ee11e3671b8b",
+        "mediaId": "60cb04d9a637ee11e3900d57",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f51f2f14f6f91b5756b85aa",
+        "folderOrder": "529000",
+        "favoriteType": "object",
+        "favoriteMediaId": "60cb04d9a637ee11e3900d57"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1001,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "newarrow16_225373430.svg",
+      "path": "/assets/7270db4c-97ee-43d9-a049-1c4d9871de1c.svg",
+      "width": 735,
+      "previewPath": "/previews/636e5b2f-add2-4de2-9c91-399a72255176.png",
+      "mediaAsset": true,
+      "mediaId": "5f51f432a637ee11e3256846",
+      "id": "5f51f432a637ee11e3256846",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f51f432a637ee11e325688e",
+        "mediaId": "5f51f432a637ee11e3256846",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f51f2f14f6f91b5756b85aa",
+        "folderOrder": "528000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f51f432a637ee11e3256846"
+      }
+    }
+  ],
+  "gradients": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 947,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "AmorphousShapes09_255981758.svg",
+      "path": "/assets/6f73730f-7a3b-48bd-97bb-c044294b1b87.svg",
+      "width": 1080,
+      "mediaAsset": true,
+      "mediaId": "5f51fe9ba637ee11e33de854",
+      "id": "5f51fe9ba637ee11e33de854",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f51fe9ba637ee11e33de89b",
+        "mediaId": "5f51fe9ba637ee11e33de854",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f51ef7c750a04277a6b527b",
+        "folderOrder": "309000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f51fe9ba637ee11e33de854"
+      }
+    },
+    {
+      "path": "/assets/573aa172-b81a-4ad7-b01a-7a7fca321b86.png",
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 2161,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "GeometricShape75_324818628.png",
+      "width": 1840,
+      "mediaAsset": true,
+      "mediaId": "60e7e834a637ee11e397f1d7",
+      "id": "60e7e834a637ee11e397f1d7",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60e7fb40a637ee11e3d05702",
+        "mediaId": "60e7e834a637ee11e397f1d7",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5f51ef7c750a04277a6b527b",
+        "folderOrder": "308000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60e7e834a637ee11e397f1d7"
+      }
+    },
+    {
+      "path": "/assets/1d9e71b0-c9e0-4e61-90fe-d2eb9a2228cd.png",
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 2618,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "GeometricShape81_347977786.png",
+      "width": 2500,
+      "mediaAsset": true,
+      "mediaId": "60e7e82ba637ee11e397c109",
+      "id": "60e7e82ba637ee11e397c109",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60e80188a637ee11e3e61cb3",
+        "mediaId": "60e7e82ba637ee11e397c109",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5f51ef7c750a04277a6b527b",
+        "folderOrder": "307000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60e7e82ba637ee11e397c109"
+      }
+    }
+  ],
+  "frames": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Frame213_000000.svg",
+      "path": "/assets/c3b9b50a-f68a-4fb4-b0e6-743b654e0647.svg",
+      "width": 829,
+      "previewPath": "/previews/4b63bf74-43bc-4ca5-aae6-2dedf7fabb85.png",
+      "mediaAsset": true,
+      "mediaId": "5fbe2e01a637ee11e3d7bbf9",
+      "id": "5fbe2e01a637ee11e3d7bbf9",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5fbe30fca637ee11e3e89096",
+        "mediaId": "5fbe2e01a637ee11e3d7bbf9",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f217d590ee1037f880dcc6b",
+        "folderOrder": "412000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5fbe2e01a637ee11e3d7bbf9"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Frame10_392845744.svg",
+      "path": "/assets/e76a9b54-40a6-418a-b60f-fe0c17b71c63.svg",
+      "width": 1080,
+      "mediaAsset": true,
+      "mediaId": "5fbe1a62a637ee11e36c4beb",
+      "id": "5fbe1a62a637ee11e36c4beb",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5fbe21e8a637ee11e3940605",
+        "mediaId": "5fbe1a62a637ee11e36c4beb",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f217d590ee1037f880dcc6b",
+        "folderOrder": "411000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5fbe1a62a637ee11e36c4beb"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Frame26_79847550.svg",
+      "path": "/assets/9e235c61-e6c8-49de-852a-3802e95b790f.svg",
+      "width": 750,
+      "mediaAsset": true,
+      "mediaId": "5fbe1a5fa637ee11e36c3a9c",
+      "id": "5fbe1a5fa637ee11e36c3a9c",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5fbe2217a637ee11e395071d",
+        "mediaId": "5fbe1a5fa637ee11e36c3a9c",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f217d590ee1037f880dcc6b",
+        "folderOrder": "410500",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5fbe1a5fa637ee11e36c3a9c"
+      }
+    }
+  ],
+  "collage": [
+    {
+      "id": "5fb51354a637ee11e388ae5a",
+      "width": 1080,
+      "height": 1080,
+      "format": "Collage",
+      "group": "Collage",
+      "itemsCount": 1,
+      "measureUnits": "px",
+      "name": "CollageElement_48.svg",
+      "previewImageUrls": [
+        "/downloads/0e5ccf98-689e-4c56-8b06-6aca9de35725.png"
+      ],
+      "templateType": "collage",
+      "favoriteItem": {
+        "id": "60103ec9a637ee11e3c2c0c2",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "isFavorite": true,
+        "removed": false,
+        "hasAnimation": false,
+        "templateId": "5fb51354a637ee11e388ae5a",
+        "folderId": "6010247f0a3d3bd6bc3cc5e8",
+        "folderOrder": "141000",
+        "favoriteType": "design",
+        "favoriteMediaId": "5fb51354a637ee11e388ae5a"
+      }
+    },
+    {
+      "id": "5fb4f767a637ee11e3ffccec",
+      "width": 1080,
+      "height": 1080,
+      "format": "Collage",
+      "group": "Collage",
+      "itemsCount": 1,
+      "measureUnits": "px",
+      "name": "CollageElement_20.svg",
+      "previewImageUrls": [
+        "/downloads/6b47790f-7764-478e-b2b7-f946a37f050b.png"
+      ],
+      "templateType": "collage",
+      "favoriteItem": {
+        "id": "60103245a637ee11e37aec7a",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "isFavorite": true,
+        "removed": false,
+        "hasAnimation": false,
+        "templateId": "5fb4f767a637ee11e3ffccec",
+        "folderId": "6010247f0a3d3bd6bc3cc5e8",
+        "folderOrder": "140000",
+        "favoriteType": "design",
+        "favoriteMediaId": "5fb4f767a637ee11e3ffccec"
+      }
+    },
+    {
+      "id": "5fb4eccfa637ee11e3ccd682",
+      "width": 1080,
+      "height": 1080,
+      "format": "Collage",
+      "group": "Collage",
+      "itemsCount": 1,
+      "measureUnits": "px",
+      "name": "CollageElement_03.svg",
+      "previewImageUrls": [
+        "/downloads/83b503bd-1740-41b8-a56a-ac8a1a34cb52.png"
+      ],
+      "templateType": "collage",
+      "favoriteItem": {
+        "id": "60102775a637ee11e33c89c4",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "isFavorite": true,
+        "removed": false,
+        "hasAnimation": false,
+        "templateId": "5fb4eccfa637ee11e3ccd682",
+        "folderId": "6010247f0a3d3bd6bc3cc5e8",
+        "folderOrder": "139000",
+        "favoriteType": "design",
+        "favoriteMediaId": "5fb4eccfa637ee11e3ccd682"
+      }
+    }
+  ],
+  "charts": [
+    {
+      "id": "5fb2973ca637ee11e31d7124",
+      "width": 1080,
+      "height": 1080,
+      "format": "Diagram",
+      "group": "Diagram",
+      "itemsCount": 1,
+      "measureUnits": "px",
+      "name": "infographics_84.svg",
+      "previewImageUrls": [
+        "/downloads/323aff51-ff94-4d5f-84c4-3211029a4071.png"
+      ],
+      "templateType": "diagram",
+      "favoriteItem": {
+        "id": "5ffc2c18a637ee11e3bcd677",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "isFavorite": true,
+        "removed": false,
+        "hasAnimation": false,
+        "templateId": "5fb2973ca637ee11e31d7124",
+        "folderId": "5ffc27bdb7f39064b31e233c",
+        "folderOrder": "225000",
+        "favoriteType": "design",
+        "favoriteMediaId": "5fb2973ca637ee11e31d7124"
+      }
+    },
+    {
+      "id": "5fb28797a637ee11e3cc2b30",
+      "width": 1080,
+      "height": 1080,
+      "format": "Diagram",
+      "group": "Diagram",
+      "itemsCount": 1,
+      "measureUnits": "px",
+      "name": "infographics_60.svg",
+      "previewImageUrls": [
+        "/downloads/ac0de423-a7c2-406c-b058-3d2baa519f39.png"
+      ],
+      "templateType": "diagram",
+      "favoriteItem": {
+        "id": "5ffc2ef5a637ee11e3c8cdd6",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "isFavorite": true,
+        "removed": false,
+        "hasAnimation": false,
+        "templateId": "5fb28797a637ee11e3cc2b30",
+        "folderId": "5ffc27bdb7f39064b31e233c",
+        "folderOrder": "224750",
+        "favoriteType": "design",
+        "favoriteMediaId": "5fb28797a637ee11e3cc2b30"
+      }
+    },
+    {
+      "id": "5fb282cda637ee11e3b2c4f0",
+      "width": 1080,
+      "height": 1080,
+      "format": "Diagram",
+      "group": "Diagram",
+      "itemsCount": 1,
+      "measureUnits": "px",
+      "name": "infographics_55.svg",
+      "previewImageUrls": [
+        "/downloads/70dfe662-d336-40c9-a797-7c4d43adb621.png"
+      ],
+      "templateType": "diagram",
+      "favoriteItem": {
+        "id": "5ffc2f65a637ee11e3caa5b2",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "isFavorite": true,
+        "removed": false,
+        "hasAnimation": false,
+        "templateId": "5fb282cda637ee11e3b2c4f0",
+        "folderId": "5ffc27bdb7f39064b31e233c",
+        "folderOrder": "224500",
+        "favoriteType": "design",
+        "favoriteMediaId": "5fb282cda637ee11e3b2c4f0"
+      }
+    }
+  ],
+  "webElements": [
+    {
+      "path": "/assets/409b535c-f732-4fa8-9f5c-3e0bb263d7ca.png",
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 1371,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "WebElement113_466232912.png",
+      "width": 3205,
+      "mediaAsset": true,
+      "mediaId": "6130c23c8070ea8a9b480882",
+      "id": "6130c23c8070ea8a9b480882",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6130d91a8070ea8a9bc89067",
+        "mediaId": "6130c23c8070ea8a9b480882",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5ffc3fce239b988b7c9df83b",
+        "folderOrder": "479000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "6130c23c8070ea8a9b480882"
+      }
+    },
+    {
+      "id": "6130c6db8070ea8a9b6004f9",
+      "width": 1080,
+      "height": 1080,
+      "format": "WebElement",
+      "group": "WebElement",
+      "itemsCount": 1,
+      "measureUnits": "px",
+      "name": "WebElement15_231651592.svg",
+      "previewImageUrls": [
+        "/downloads/fdcdbf9b-338c-493d-b91c-32520f5d30c8.png"
+      ],
+      "title": "Social Media Post Illustration",
+      "templateType": "webElement",
+      "favoriteItem": {
+        "id": "6130d9288070ea8a9bc8e612",
+        "userId": "5d6ccd90abc8ea6d1c35f95e",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "folderId": "5ffc3fce239b988b7c9df83b",
+        "folderOrder": "477500",
+        "favoriteType": "objectTemplate",
+        "favoriteMediaId": "6130c6db8070ea8a9b6004f9"
+      }
+    },
+    {
+      "id": "5fb6762aa637ee11e364c376",
+      "width": 1080,
+      "height": 1080,
+      "format": "WebElement",
+      "group": "WebElement",
+      "itemsCount": 1,
+      "measureUnits": "px",
+      "name": "web_105.svg",
+      "previewImageUrls": [
+        "/downloads/99a71956-f968-4ce3-aed7-60e03bbf170a.png"
+      ],
+      "templateType": "webElement",
+      "favoriteItem": {
+        "id": "5ffc4b20a637ee11e344dad8",
+        "userId": "5d6ccd90abc8ea6d1c35f95e",
+        "isFavorite": true,
+        "removed": false,
+        "hasAnimation": false,
+        "templateId": "5fb6762aa637ee11e364c376",
+        "folderId": "5ffc3fce239b988b7c9df83b",
+        "folderOrder": "476000",
+        "favoriteType": "design",
+        "favoriteMediaId": "5fb6762aa637ee11e364c376"
+      }
+    }
+  ],
+  "icons": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1038,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "iconsl275_245960500.svg",
+      "path": "/assets/6dc5f022-968a-4a95-bfa8-f953c7c730d5.svg",
+      "width": 898,
+      "previewPath": "/previews/5cafbe12-39c9-4dc3-9628-e8cf9c19db29.png",
+      "mediaAsset": true,
+      "mediaId": "5f745812a637ee11e3ecaf9a",
+      "id": "5f745812a637ee11e3ecaf9a",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f745c20a637ee11e3faf8c8",
+        "mediaId": "5f745812a637ee11e3ecaf9a",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f57512a830d951690fff730",
+        "folderOrder": "1749000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f745812a637ee11e3ecaf9a"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 908,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "licfloral2_329894650.svg",
+      "path": "/assets/90cdbc00-8281-42f0-aa10-a3c20bc6ec17.svg",
+      "width": 1013,
+      "previewPath": "/previews/fa9d9a41-238e-4831-9a2d-d9b6d7797dca.png",
+      "mediaAsset": true,
+      "mediaId": "5f564c60a637ee11e3ca923d",
+      "id": "5f564c60a637ee11e3ca923d",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f745ac0a637ee11e3f61b7c",
+        "mediaId": "5f564c60a637ee11e3ca923d",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f57512a830d951690fff730",
+        "folderOrder": "1748000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f564c60a637ee11e3ca923d"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 836,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Hdrawnl1_367255814.svg",
+      "path": "/assets/1990a3d5-98c6-45ca-8cc6-c289b3444c12.svg",
+      "width": 1080,
+      "previewPath": "/previews/00113c0f-d779-44d2-810e-59a3aedecf33.png",
+      "mediaAsset": true,
+      "mediaId": "5f71ed5fa637ee11e32b38b7",
+      "id": "5f71ed5fa637ee11e32b38b7",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f744147a637ee11e39d4172",
+        "mediaId": "5f71ed5fa637ee11e32b38b7",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f57512a830d951690fff730",
+        "folderOrder": "1747000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f71ed5fa637ee11e32b38b7"
+      }
+    }
+  ],
+  "setters": [
+    {
+      "path": "/assets/589bd5c6-3d8d-4c3c-96d4-5886eb8163f2.png",
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 3989,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "setheart2_000000.png",
+      "width": 3049,
+      "mediaAsset": true,
+      "mediaId": "60d34617a637ee11e3c12515",
+      "id": "60d34617a637ee11e3c12515",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60d42dc8a637ee11e3c4942f",
+        "mediaId": "60d34617a637ee11e3c12515",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60d42d89f7f22d7ac9d0113a",
+        "folderOrder": "147000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60d34617a637ee11e3c12515"
+      }
+    },
+    {
+      "path": "/assets/7a3abcfd-ee37-45fb-89de-a8359f54447c.png",
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 5202,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "setcat2_344206654.png",
+      "width": 5465,
+      "mediaAsset": true,
+      "mediaId": "60d34619a637ee11e3c13484",
+      "id": "60d34619a637ee11e3c13484",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60d42db6a637ee11e3c457cf",
+        "mediaId": "60d34619a637ee11e3c13484",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60d42d89f7f22d7ac9d0113a",
+        "folderOrder": "145000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60d34619a637ee11e3c13484"
+      }
+    },
+    {
+      "path": "/assets/d6e7cfaa-6ff0-4e08-81f0-36136c57524c.png",
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 3880,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "seteye_344205034.png",
+      "width": 5141,
+      "mediaAsset": true,
+      "mediaId": "60d3461ca637ee11e3c152c1",
+      "id": "60d3461ca637ee11e3c152c1",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60d42d99a637ee11e3c40095",
+        "mediaId": "60d3461ca637ee11e3c152c1",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60d42d89f7f22d7ac9d0113a",
+        "folderOrder": "144000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60d3461ca637ee11e3c152c1"
+      }
+    }
+  ],
+  "labelsBanners": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 877,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "nbanner101_371331916.svg",
+      "path": "/assets/f50aa38a-68f5-408c-95a7-404a8dbeab15.svg",
+      "width": 920,
+      "previewPath": "/previews/2d1cbb72-1bd5-4c21-bec4-02f0c1704a88.png",
+      "mediaAsset": true,
+      "mediaId": "5f52196fa637ee11e3803efb",
+      "id": "5f52196fa637ee11e3803efb",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f52196fa637ee11e3803f6b",
+        "mediaId": "5f52196fa637ee11e3803efb",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f5209a2bbe0be7d1812a028",
+        "folderOrder": "332000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f52196fa637ee11e3803efb"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 842,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "banner133_30410545.svg",
+      "path": "/assets/9108a37e-4ffd-473e-b041-3655360c8741.svg",
+      "width": 1042,
+      "previewPath": "/previews/7302420c-0400-4842-80b9-f56acb34a0ed.png",
+      "mediaAsset": true,
+      "mediaId": "5f5208a0a637ee11e356d353",
+      "id": "5f5208a0a637ee11e356d353",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f5208a0a637ee11e356d4b5",
+        "mediaId": "5f5208a0a637ee11e356d353",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f5209a2bbe0be7d1812a028",
+        "folderOrder": "331500",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f5208a0a637ee11e356d353"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 620,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "nbanner110_340904862.svg",
+      "path": "/assets/034a62ff-0773-43d1-920f-f2c5d149c9b5.svg",
+      "width": 920,
+      "previewPath": "/previews/ac790805-a117-4df9-9c8f-1551b7f6502b.png",
+      "mediaAsset": true,
+      "mediaId": "5f521970a637ee11e38040d4",
+      "id": "5f521970a637ee11e38040d4",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f521970a637ee11e3804149",
+        "mediaId": "5f521970a637ee11e38040d4",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f5209a2bbe0be7d1812a028",
+        "folderOrder": "331250",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f521970a637ee11e38040d4"
+      }
+    }
+  ],
+  "emojiReactions": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1002,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "emoji77_214584234.svg",
+      "path": "/free-assets/eee12443-cf25-4312-8f43-9ba492bb800f.svg",
+      "width": 1002,
+      "mediaAsset": true,
+      "mediaId": "5f520c04a637ee11e35f3eb8",
+      "id": "5f520c04a637ee11e35f3eb8",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f520c04a637ee11e35f3f3d",
+        "mediaId": "5f520c04a637ee11e35f3eb8",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f520ece3bfdb01a2bc27d9f",
+        "folderOrder": "235000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f520c04a637ee11e35f3eb8"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 806,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "emoji50_256781980.svg",
+      "path": "/free-assets/a282d52c-ea7d-4860-8af9-c207f01619cf.svg",
+      "width": 1009,
+      "mediaAsset": true,
+      "mediaId": "5f520c03a637ee11e35f379f",
+      "id": "5f520c03a637ee11e35f379f",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f520c03a637ee11e35f37db",
+        "mediaId": "5f520c03a637ee11e35f379f",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f520ece3bfdb01a2bc27d9f",
+        "folderOrder": "234000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f520c03a637ee11e35f379f"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 12582,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "licemoji1_264934372.png",
+      "path": "/free-assets/e1eca4a6-d682-40bd-95a3-daa8f20601b6.png",
+      "width": 7309,
+      "mediaAsset": true,
+      "mediaId": "5f5220e0a637ee11e3928a52",
+      "id": "5f5220e0a637ee11e3928a52",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f5220e1a637ee11e3928b22",
+        "mediaId": "5f5220e0a637ee11e3928a52",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5f520ece3bfdb01a2bc27d9f",
+        "folderOrder": "233000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "5f5220e0a637ee11e3928a52"
+      }
+    }
+  ],
+  "mockupBrush": [
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 4027,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Brush84_78542130.png",
+      "path": "/assets/24f5f8de-f36c-4583-a987-a440ddcccfe3.png",
+      "width": 4151,
+      "mediaAsset": true,
+      "mediaId": "6038ce37a637ee11e3d6a828",
+      "id": "6038ce37a637ee11e3d6a828",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6038ce53a637ee11e3d7391c",
+        "mediaId": "6038ce37a637ee11e3d6a828",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "6038ccbd711d83a51599fdfe",
+        "folderOrder": "338000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "6038ce37a637ee11e3d6a828"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 1146,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Brush202_252950680.png",
+      "path": "/assets/f880e62b-0671-454f-9633-aa5370ac110c.png",
+      "width": 1262,
+      "mediaAsset": true,
+      "mediaId": "6038cf2aa637ee11e3dbb3ce",
+      "id": "6038cf2aa637ee11e3dbb3ce",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6038d031a637ee11e3e10d82",
+        "mediaId": "6038cf2aa637ee11e3dbb3ce",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "6038ccbd711d83a51599fdfe",
+        "folderOrder": "337500",
+        "favoriteType": "photo",
+        "favoriteMediaId": "6038cf2aa637ee11e3dbb3ce"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 938,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Brush216_13629186.png",
+      "path": "/assets/19d48be3-804b-4efe-8303-4228e91e0507.png",
+      "width": 825,
+      "mediaAsset": true,
+      "mediaId": "6038cf27a637ee11e3db9d37",
+      "id": "6038cf27a637ee11e3db9d37",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6038cfd9a637ee11e3df4830",
+        "mediaId": "6038cf27a637ee11e3db9d37",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "6038ccbd711d83a51599fdfe",
+        "folderOrder": "337250",
+        "favoriteType": "photo",
+        "favoriteMediaId": "6038cf27a637ee11e3db9d37"
+      }
+    }
+  ],
+  "printPaper": [
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 1528,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Paper22_14162112.png",
+      "path": "/assets/8bbd958a-9c9d-4796-8fcd-f1dced37678b.png",
+      "width": 1412,
+      "mediaAsset": true,
+      "mediaId": "5fe9baaca637ee11e338d8c8",
+      "id": "5fe9baaca637ee11e338d8c8",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5fe9bb3ba637ee11e33b4746",
+        "mediaId": "5fe9baaca637ee11e338d8c8",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5fe9baefe956fb45ef988e48",
+        "folderOrder": "344000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "5fe9baaca637ee11e338d8c8"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 1572,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Paper28_76921111.png",
+      "path": "/assets/ee5794ed-ebae-478e-9ac4-b2632bcf0672.png",
+      "width": 882,
+      "mediaAsset": true,
+      "mediaId": "5fe9baaaa637ee11e338cd30",
+      "id": "5fe9baaaa637ee11e338cd30",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5fe9d263a637ee11e39b6592",
+        "mediaId": "5fe9baaaa637ee11e338cd30",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5fe9baefe956fb45ef988e48",
+        "folderOrder": "343000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "5fe9baaaa637ee11e338cd30"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 2920,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Paper66_166848510.png",
+      "path": "/assets/c8bb409b-4f66-4853-b093-9475775106a8.png",
+      "width": 4618,
+      "mediaAsset": true,
+      "mediaId": "5fe9baa6a637ee11e338abb2",
+      "id": "5fe9baa6a637ee11e338abb2",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5fe9d2faa637ee11e39ddcf3",
+        "mediaId": "5fe9baa6a637ee11e338abb2",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5fe9baefe956fb45ef988e48",
+        "folderOrder": "342000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "5fe9baa6a637ee11e338abb2"
+      }
+    }
+  ],
+  "electronics": [
+    {
+      "id": "6014082ba637ee11e36e5712",
+      "width": 1080,
+      "height": 1080,
+      "format": "Collage",
+      "group": "Collage",
+      "itemsCount": 1,
+      "measureUnits": "px",
+      "name": "Electronics99_183126150.svg",
+      "previewImageUrls": [
+        "/downloads/8d03a803-f30c-4825-b075-2574fb9140b4.png"
+      ],
+      "templateType": "collage",
+      "favoriteItem": {
+        "id": "6014097da637ee11e374db64",
+        "userId": "5d6ccd90abc8ea6d1c35f95e",
+        "isFavorite": true,
+        "removed": false,
+        "hasAnimation": false,
+        "templateId": "6014082ba637ee11e36e5712",
+        "folderId": "5fe9ddf0852f1cc713d503aa",
+        "folderOrder": "274000",
+        "favoriteType": "design",
+        "favoriteMediaId": "6014082ba637ee11e36e5712"
+      }
+    },
+    {
+      "path": "/assets/da02b6a6-a2c0-46cc-b5fb-f8eb042b8f16.png",
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 2373,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Device20_444023912.png",
+      "width": 2968,
+      "mediaAsset": true,
+      "mediaId": "611119d28070ea8a9b03b742",
+      "id": "611119d28070ea8a9b03b742",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "611384568070ea8a9b9d74ee",
+        "mediaId": "611119d28070ea8a9b03b742",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5fe9ddf0852f1cc713d503aa",
+        "folderOrder": "273750",
+        "favoriteType": "photo",
+        "favoriteMediaId": "611119d28070ea8a9b03b742"
+      }
+    },
+    {
+      "path": "/assets/0e0c84ec-c30d-4331-8166-5faa8e76f0c5.png",
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 5401,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Device115_462126506.png",
+      "width": 3071,
+      "mediaAsset": true,
+      "mediaId": "611119ca8070ea8a9b03810b",
+      "id": "611119ca8070ea8a9b03810b",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "611384fb8070ea8a9b9ff088",
+        "mediaId": "611119ca8070ea8a9b03810b",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5fe9ddf0852f1cc713d503aa",
+        "folderOrder": "273500",
+        "favoriteType": "photo",
+        "favoriteMediaId": "611119ca8070ea8a9b03810b"
+      }
+    }
+  ],
+  "food": [
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 1769,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Foood01_31455769.png",
+      "path": "/assets/9c380fcc-859b-4b32-b078-c0072924a270.png",
+      "width": 1938,
+      "mediaAsset": true,
+      "mediaId": "601d476ca637ee11e3f174ce",
+      "id": "601d476ca637ee11e3f174ce",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "601d4778a637ee11e3f1b2d7",
+        "mediaId": "601d476ca637ee11e3f174ce",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "601d3eab24330747139d6043",
+        "folderOrder": "761000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "601d476ca637ee11e3f174ce"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 2406,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Food68_177605096.png",
+      "path": "/assets/e8981fdb-d8f4-4c24-adef-0bfc4aaf6de7.png",
+      "width": 3425,
+      "mediaAsset": true,
+      "mediaId": "601d3d6aa637ee11e3bf6f02",
+      "id": "601d3d6aa637ee11e3bf6f02",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "601d4325a637ee11e3dc106a",
+        "mediaId": "601d3d6aa637ee11e3bf6f02",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "601d3eab24330747139d6043",
+        "folderOrder": "760000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "601d3d6aa637ee11e3bf6f02"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 2180,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Food83_68574627.png",
+      "path": "/assets/11aa15e0-9351-44fd-9fe6-0a3c1661058a.png",
+      "width": 2724,
+      "mediaAsset": true,
+      "mediaId": "601d3d67a637ee11e3bf5547",
+      "id": "601d3d67a637ee11e3bf5547",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "601d43dca637ee11e3df7588",
+        "mediaId": "601d3d67a637ee11e3bf5547",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "601d3eab24330747139d6043",
+        "folderOrder": "759000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "601d3d67a637ee11e3bf5547"
+      }
+    }
+  ],
+  "nature": [
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 628,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Nature69_363117518.png",
+      "path": "/assets/7b34f644-bf92-4a58-a421-d03b79b8c2a2.png",
+      "width": 656,
+      "mediaAsset": true,
+      "mediaId": "602a2f85a637ee11e34ccd92",
+      "id": "602a2f85a637ee11e34ccd92",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "602a3058a637ee11e34fb34f",
+        "mediaId": "602a2f85a637ee11e34ccd92",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "602a2fcf5dd96896263f521b",
+        "folderOrder": "998000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "602a2f85a637ee11e34ccd92"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 6023,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "fol102_352713420.png",
+      "path": "/assets/53bed172-5cea-4f8a-b5a6-babb1697645b.png",
+      "width": 3091,
+      "mediaAsset": true,
+      "mediaId": "5f55f9c8a637ee11e3ee9dc5",
+      "id": "5f55f9c8a637ee11e3ee9dc5",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "610a58058070ea8a9b269817",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "hasAnimation": false,
+        "folderId": "602a2fcf5dd96896263f521b",
+        "folderOrder": "997000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "5f55f9c8a637ee11e3ee9dc5"
+      }
+    },
+    {
+      "path": "/assets/de2a7d95-ea9d-4f4d-a488-71a925d4b5f7.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1079,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "flower1_405765958.svg",
+      "width": 925,
+      "previewPath": "/previews/6ee092c6-08c1-4f81-a1af-cf406d860236.png",
+      "mediaAsset": true,
+      "mediaId": "60ee8353a637ee11e3fa2d62",
+      "id": "60ee8353a637ee11e3fa2d62",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "61093ff68070ea8a9bafbbff",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "hasAnimation": false,
+        "folderId": "602a2fcf5dd96896263f521b",
+        "folderOrder": "996000",
+        "favoriteType": "object",
+        "favoriteMediaId": "60ee8353a637ee11e3fa2d62"
+      }
+    }
+  ],
+  "salePromotion": [
+    {
+      "id": "5a311fd7d8141396fe9b6bf0",
+      "width": 48,
+      "height": 36,
+      "format": "Badge",
+      "group": "Badge",
+      "itemsCount": 1,
+      "measureUnits": "px",
+      "name": "058_Depositphotos_131839762_19_tx.svg",
+      "previewImageUrls": [
+        "/common/e833b153-38c6-478b-b6aa-1bc0d7a75067.png"
+      ],
+      "title": "sale rhombic pink label",
+      "templateType": "badge",
+      "favoriteItem": {
+        "id": "5f97ed11a637ee11e39e067c",
+        "userId": "5931636a2ca8a9003259e738",
+        "isFavorite": true,
+        "hasAnimation": false,
+        "templateId": "5a311fd7d8141396fe9b6bf0",
+        "folderId": "5f97ec37ec3f6beeb6054e7f",
+        "folderOrder": "423000",
+        "favoriteType": "design",
+        "favoriteMediaId": "5a311fd7d8141396fe9b6bf0"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 875,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "nholiday102_153109686.svg",
+      "path": "/assets/678c6dad-fd14-4c5b-814a-9bc64c19f7a1.svg",
+      "width": 848,
+      "mediaAsset": true,
+      "mediaId": "5f730219a637ee11e3d92fd2",
+      "id": "5f730219a637ee11e3d92fd2",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f97f186a637ee11e3b273eb",
+        "userId": "5931636a2ca8a9003259e738",
+        "mediaId": "5f730219a637ee11e3d92fd2",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f97ec37ec3f6beeb6054e7f",
+        "folderOrder": "422500",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f730219a637ee11e3d92fd2"
+      }
+    },
+    {
+      "path": "/assets/f597487b-60f0-424e-82fb-c4809892a29e.svg",
+      "originalName": "Depositphotos_64856225_02.svg",
+      "elementType": "svgElement",
+      "width": 28,
+      "height": 17,
+      "previewPath": "/assets/5e6ab1a9-97df-49c8-adef-d04cc15e71e2.png",
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "forSubscribers": true,
+      "mediaAsset": true,
+      "mediaId": "5a3be0218c32ec6f8b3eed67",
+      "id": "5a3be0218c32ec6f8b3eed67",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f99312da637ee11e3670ee4",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "mediaId": "5a3be0218c32ec6f8b3eed67",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f97ec37ec3f6beeb6054e7f",
+        "folderOrder": "422250",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5a3be0218c32ec6f8b3eed67"
+      }
+    }
+  ],
+  "holiday": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 852,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "nholiday33_336183678.svg",
+      "path": "/assets/09fa590a-ac52-453c-bb04-b4e231303f31.svg",
+      "width": 875,
+      "previewPath": "/previews/d6bad34b-4fb0-4ffe-8cc5-231033251990.png",
+      "mediaAsset": true,
+      "mediaId": "5f5747ada637ee11e3aeae38",
+      "id": "5f5747ada637ee11e3aeae38",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f574e44a637ee11e3c099d1",
+        "mediaId": "5f5747ada637ee11e3aeae38",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f573f13b4a2875d35804102",
+        "folderOrder": "854000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f5747ada637ee11e3aeae38"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 910,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "event9_336614976.svg",
+      "path": "/assets/3584ea15-95b8-4f41-84a6-e0575510d3a0.svg",
+      "width": 745,
+      "previewPath": "/previews/8f9cd8c1-dd0f-45db-a4a7-c4e0a63bb70a.png",
+      "mediaAsset": true,
+      "mediaId": "5f57382ca637ee11e388e172",
+      "id": "5f57382ca637ee11e388e172",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f5740a9a637ee11e39d1684",
+        "mediaId": "5f57382ca637ee11e388e172",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f573f13b4a2875d35804102",
+        "folderOrder": "853500",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f57382ca637ee11e388e172"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 759,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "event24_228635816.svg",
+      "path": "/assets/5829dcf9-1d24-4ade-bce6-ee15efebb454.svg",
+      "width": 966,
+      "previewPath": "/previews/600fb31f-d43f-41f2-8ab0-863aec9ce407.png",
+      "mediaAsset": true,
+      "mediaId": "5f57382ea637ee11e388ec36",
+      "id": "5f57382ea637ee11e388ec36",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f574553a637ee11e3a897c9",
+        "mediaId": "5f57382ea637ee11e388ec36",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f573f13b4a2875d35804102",
+        "folderOrder": "844000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f57382ea637ee11e388ec36"
+      }
+    }
+  ],
+  "people": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "sm60_329870488.svg",
+      "path": "/assets/385a9298-36c8-4220-8efe-59137226b1e3.svg",
+      "width": 651,
+      "previewPath": "/previews/a3e21a0e-c925-4d90-abbe-1b3e4431d2e1.png",
+      "mediaAsset": true,
+      "mediaId": "5f7496f5a637ee11e3e4493c",
+      "id": "5f7496f5a637ee11e3e4493c",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "611397388070ea8a9be83080",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "hasAnimation": false,
+        "folderId": "5f563dce887646d02637fb7a",
+        "folderOrder": "669000",
+        "favoriteType": "object",
+        "favoriteMediaId": "5f7496f5a637ee11e3e4493c"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1032,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "afro26_299023604.svg",
+      "path": "/assets/0aac20b7-0392-4dbc-9ef3-ddc30e09f00b.svg",
+      "width": 883,
+      "previewPath": "/previews/149b45ff-baa9-4534-85b2-68797588dfaa.png",
+      "mediaAsset": true,
+      "mediaId": "5f563ee6a637ee11e3a24d62",
+      "id": "5f563ee6a637ee11e3a24d62",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f564184a637ee11e3aa4d19",
+        "mediaId": "5f563ee6a637ee11e3a24d62",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f563dce887646d02637fb7a",
+        "folderOrder": "668000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f563ee6a637ee11e3a24d62"
+      }
+    },
+    {
+      "path": "/assets/9aaa871f-b8c5-4f81-8632-fe87bb2afcec.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Device64_446399142.svg",
+      "width": 888,
+      "previewPath": "/previews/f4895c42-8f75-4e2b-b009-fecd509d6f13.png",
+      "mediaAsset": true,
+      "mediaId": "611117008070ea8a9bf74930",
+      "id": "611117008070ea8a9bf74930",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6113dc2d8070ea8a9b144d09",
+        "mediaId": "611117008070ea8a9bf74930",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f563dce887646d02637fb7a",
+        "folderOrder": "667000",
+        "favoriteType": "object",
+        "favoriteMediaId": "611117008070ea8a9bf74930"
+      }
+    }
+  ],
+  "animals": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 903,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "love15_232636766 (1).svg",
+      "path": "/assets/b13eb6b5-8b27-463e-a874-b28dd353e39e.svg",
+      "width": 966,
+      "mediaAsset": true,
+      "mediaId": "5f72051ea637ee11e3779c55",
+      "id": "5f72051ea637ee11e3779c55",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f72094fa637ee11e3849f40",
+        "mediaId": "5f72051ea637ee11e3779c55",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f5872d470d43698b2a1bc80",
+        "folderOrder": "688000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f72051ea637ee11e3779c55"
+      }
+    },
+    {
+      "path": "/assets/7b446499-cb16-4ec0-8505-d6ea2403ab69.svg",
+      "originalName": "Depositphotos_79723032_07.svg",
+      "elementType": "svgElement",
+      "width": 112,
+      "height": 112,
+      "previewPath": "/assets/6b4a02d8-55ab-47d1-b150-ea6582e7ec3b.png",
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "forSubscribers": true,
+      "mediaAsset": true,
+      "mediaId": "5a3bdfc68c32ec6f8b3e529e",
+      "id": "5a3bdfc68c32ec6f8b3e529e",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f5876bea637ee11e368fed9",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "mediaId": "5a3bdfc68c32ec6f8b3e529e",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f5872d470d43698b2a1bc80",
+        "folderOrder": "687000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5a3bdfc68c32ec6f8b3e529e"
+      }
+    },
+    {
+      "path": "/assets/290bbc15-10e6-4725-bcb0-663652344a61.svg",
+      "originalName": "Depositphotos_117005002_03.svg",
+      "elementType": "svgElement",
+      "width": 244,
+      "height": 225,
+      "previewPath": "/assets/84115fb5-1d65-49c6-9af6-0fcd77ef4b6e.png",
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "forSubscribers": true,
+      "mediaAsset": true,
+      "mediaId": "5a3baee3491a99f149cbd72f",
+      "id": "5a3baee3491a99f149cbd72f",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f5878c2a637ee11e36cd53d",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "mediaId": "5a3baee3491a99f149cbd72f",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f5872d470d43698b2a1bc80",
+        "folderOrder": "686500",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5a3baee3491a99f149cbd72f"
+      }
+    }
+  ],
+  "girlPower": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1049,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "LDigital15_351303250.svg",
+      "path": "/assets/51bd032f-a2cd-482f-a40e-64d32fc6e5af.svg",
+      "width": 700,
+      "previewPath": "/previews/34f1ec33-cbf6-4570-8211-18331dde932c.png",
+      "mediaAsset": true,
+      "mediaId": "5f59d62da637ee11e38aa2fb",
+      "id": "5f59d62da637ee11e38aa2fb",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6063305fa637ee11e3e463db",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "hasAnimation": false,
+        "folderId": "606178ed49da41642ee94ab1",
+        "folderOrder": "80093",
+        "favoriteType": "object",
+        "favoriteMediaId": "5f59d62da637ee11e38aa2fb"
+      }
+    },
+    {
+      "path": "/assets/8ce56322-f912-49cc-a397-fd170a9d205c.svg",
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 652,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "difwomen_452698924.svg",
+      "width": 1079,
+      "previewPath": "/previews/40b7d164-66b5-4eed-8c7d-3c7141b0e819.png",
+      "mediaAsset": true,
+      "mediaId": "61004c4a8070ea8a9b73acfd",
+      "id": "61004c4a8070ea8a9b73acfd",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6102a2378070ea8a9b794eda",
+        "mediaId": "61004c4a8070ea8a9b73acfd",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "606178ed49da41642ee94ab1",
+        "folderOrder": "80062",
+        "favoriteType": "object",
+        "favoriteMediaId": "61004c4a8070ea8a9b73acfd"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 895,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "nholiday31_338585330.svg",
+      "path": "/free-assets/8edae256-24c3-4052-8741-f7e5bd7fd5f0.svg",
+      "width": 842,
+      "mediaAsset": true,
+      "mediaId": "5f5747ada637ee11e3aea9f1",
+      "id": "5f5747ada637ee11e3aea9f1",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60617b82a637ee11e3593ef7",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "hasAnimation": false,
+        "folderId": "606178ed49da41642ee94ab1",
+        "folderOrder": "80031",
+        "favoriteType": "object",
+        "favoriteMediaId": "5f5747ada637ee11e3aea9f1"
+      }
+    }
+  ],
+  "astrology": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 986,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Zodiac14_427614472.svg",
+      "path": "/assets/2b770299-92f0-41e6-b95c-3ec0edb42970.svg",
+      "width": 1079,
+      "previewPath": "/previews/66dfaa4b-ea13-4492-af96-35f3a3c16ee3.png",
+      "mediaAsset": true,
+      "mediaId": "6082562da637ee11e373ce94",
+      "id": "6082562da637ee11e373ce94",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6082592ea637ee11e37c0f33",
+        "mediaId": "6082562da637ee11e373ce94",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "608256de4c0a7f88231eb840",
+        "folderOrder": "237000",
+        "favoriteType": "object",
+        "favoriteMediaId": "6082562da637ee11e373ce94"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 4501,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Zodiac153_433997320.png",
+      "path": "/assets/dd2c3d33-db95-42da-a224-0c80fe2d3107.png",
+      "width": 3965,
+      "mediaAsset": true,
+      "mediaId": "6082550aa637ee11e37087fc",
+      "id": "6082550aa637ee11e37087fc",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "6082599da637ee11e37d62fa",
+        "mediaId": "6082550aa637ee11e37087fc",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "608256de4c0a7f88231eb840",
+        "folderOrder": "236000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "6082550aa637ee11e37087fc"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 4500,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Zodiac214_451372876.png",
+      "path": "/assets/ff048700-74d8-4774-bbb7-2b7527b9f816.png",
+      "width": 3216,
+      "mediaAsset": true,
+      "mediaId": "608254f7a637ee11e370408d",
+      "id": "608254f7a637ee11e370408d",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "608259d8a637ee11e37e0fc5",
+        "mediaId": "608254f7a637ee11e370408d",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "608256de4c0a7f88231eb840",
+        "folderOrder": "234281",
+        "favoriteType": "photo",
+        "favoriteMediaId": "608254f7a637ee11e370408d"
+      }
+    }
+  ],
+  "lgbt": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1079,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Pride31_456896746.svg",
+      "path": "/assets/3c26d13a-f1e1-486b-837c-18171d13ec30.svg",
+      "width": 935,
+      "previewPath": "/previews/1c781ed7-f5d5-4582-9f62-5f3248895acb.png",
+      "mediaAsset": true,
+      "mediaId": "609cb501a637ee11e3248826",
+      "id": "609cb501a637ee11e3248826",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "609cb5a4a637ee11e326789a",
+        "mediaId": "609cb501a637ee11e3248826",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "609cb5175f330011ee591b8e",
+        "folderOrder": "115000",
+        "favoriteType": "object",
+        "favoriteMediaId": "609cb501a637ee11e3248826"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Pride88_311147326.svg",
+      "path": "/assets/702771da-6c94-4d3e-a4cf-75aa602b4258.svg",
+      "width": 929,
+      "previewPath": "/previews/75df3ee8-cc0a-4620-aa57-1635cf1e66df.png",
+      "mediaAsset": true,
+      "mediaId": "609cb6aaa637ee11e32967c4",
+      "id": "609cb6aaa637ee11e32967c4",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "609cb762a637ee11e32b7e6f",
+        "mediaId": "609cb6aaa637ee11e32967c4",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "609cb5175f330011ee591b8e",
+        "folderOrder": "114000",
+        "favoriteType": "object",
+        "favoriteMediaId": "609cb6aaa637ee11e32967c4"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Pride63_457729516.svg",
+      "path": "/assets/9d21304c-fabb-4048-b7b3-6f66eb7230b1.svg",
+      "width": 924,
+      "previewPath": "/previews/3627aa82-855e-4720-b868-3e4dbaf54d1e.png",
+      "mediaAsset": true,
+      "mediaId": "609cb509a637ee11e324b3aa",
+      "id": "609cb509a637ee11e324b3aa",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "609cb55ba637ee11e325983e",
+        "mediaId": "609cb509a637ee11e324b3aa",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "609cb5175f330011ee591b8e",
+        "folderOrder": "113000",
+        "favoriteType": "object",
+        "favoriteMediaId": "609cb509a637ee11e324b3aa"
+      }
+    }
+  ],
+  "handdrawn": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "hdrawn54_386127302.svg",
+      "path": "/assets/e9e85f33-6aa5-4822-9001-5f7c3fe99442.svg",
+      "width": 989,
+      "previewPath": "/previews/1c792c8f-9ff6-4718-8d56-9d569b6ea6f6.png",
+      "mediaAsset": true,
+      "mediaId": "5f561420a637ee11e32fb53a",
+      "id": "5f561420a637ee11e32fb53a",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f561bd8a637ee11e3433917",
+        "mediaId": "5f561420a637ee11e32fb53a",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f56173c887646991737e73d",
+        "folderOrder": "955000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f561420a637ee11e32fb53a"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1080,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "hdrawn75_330238218.svg",
+      "path": "/assets/b806a24a-8d9b-4d16-acfa-662545bbb44f.svg",
+      "width": 808,
+      "previewPath": "/previews/6a9e4a44-73b0-4595-9339-25259363acf4.png",
+      "mediaAsset": true,
+      "mediaId": "5f5612c0a637ee11e32c104c",
+      "id": "5f5612c0a637ee11e32c104c",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f561c18a637ee11e343ed7d",
+        "mediaId": "5f5612c0a637ee11e32c104c",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f56173c887646991737e73d",
+        "folderOrder": "954000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f5612c0a637ee11e32c104c"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 1193,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "hdrawnl95_263374000.svg",
+      "path": "/assets/d1a50dde-30e0-45f1-859e-8c9e894d7bb5.svg",
+      "width": 654,
+      "previewPath": "/previews/7340a089-e2f0-4dda-8f5b-27649a5c653a.png",
+      "mediaAsset": true,
+      "mediaId": "5f562a46a637ee11e3689869",
+      "id": "5f562a46a637ee11e3689869",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f562bc1a637ee11e36cbf40",
+        "mediaId": "5f562a46a637ee11e3689869",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f56173c887646991737e73d",
+        "folderOrder": "953000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f562a46a637ee11e3689869"
+      }
+    }
+  ],
+  "rating": [
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 984,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "rating4__361497670.svg",
+      "path": "/assets/3b0f1f75-6a3c-42d9-b402-da287500c05a.svg",
+      "width": 960,
+      "previewPath": "/previews/3f5562ab-3655-427c-b00f-cdedf9b4d34d.png",
+      "mediaAsset": true,
+      "mediaId": "5f563088a637ee11e3793ef3",
+      "id": "5f563088a637ee11e3793ef3",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f56388da637ee11e38f6334",
+        "mediaId": "5f563088a637ee11e3793ef3",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f562dc4887646276837f3c4",
+        "folderOrder": "97000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f563088a637ee11e3793ef3"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 710,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "rating79_203859940.svg",
+      "path": "/assets/fd59b148-b5fa-4234-82c8-ef2f63658d3b.svg",
+      "width": 923,
+      "previewPath": "/previews/833ade93-1ab9-44c5-95e4-9cda3566e127.png",
+      "mediaAsset": true,
+      "mediaId": "5f56308ea637ee11e3796079",
+      "id": "5f56308ea637ee11e3796079",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f5637e0a637ee11e38d8444",
+        "mediaId": "5f56308ea637ee11e3796079",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f562dc4887646276837f3c4",
+        "folderOrder": "96000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f56308ea637ee11e3796079"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 304,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "rating29_332562490.svg",
+      "path": "/assets/f4c3d93a-0fd5-414e-b43c-5c193cb4361a.svg",
+      "width": 960,
+      "previewPath": "/previews/811d23d8-ef23-4828-9c96-1c38633b428d.png",
+      "mediaAsset": true,
+      "mediaId": "5f563089a637ee11e379456d",
+      "id": "5f563089a637ee11e379456d",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f56387ca637ee11e38f342d",
+        "mediaId": "5f563089a637ee11e379456d",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f562dc4887646276837f3c4",
+        "folderOrder": "95000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5f563089a637ee11e379456d"
+      }
+    }
+  ],
+  "byTascha": [
+    {
+      "path": "/assets/bf9787f1-c1e6-4f47-af74-4a14a3e4dbe4.png",
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 4510,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Asset 42@300x.png",
+      "width": 4501,
+      "mediaAsset": true,
+      "mediaId": "60c0631ca637ee11e31f144a",
+      "id": "60c0631ca637ee11e31f144a",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60c06390a637ee11e3207d21",
+        "mediaId": "60c0631ca637ee11e31f144a",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60c05b783f044ba8360f3e7e",
+        "folderOrder": "26327",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60c0631ca637ee11e31f144a"
+      }
+    },
+    {
+      "path": "/assets/84098776-c6f2-4945-a882-13fcd6f42682.png",
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 4510,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Asset 44@300x.png",
+      "width": 4501,
+      "mediaAsset": true,
+      "mediaId": "60c0631da637ee11e31f198f",
+      "id": "60c0631da637ee11e31f198f",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60c0638ea637ee11e3207810",
+        "mediaId": "60c0631da637ee11e31f198f",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60c05b783f044ba8360f3e7e",
+        "folderOrder": "25312",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60c0631da637ee11e31f198f"
+      }
+    },
+    {
+      "path": "/assets/6c27cd06-cbf7-4d84-8743-b8c82b664320.png",
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 4510,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Asset 38@300x.png",
+      "width": 4501,
+      "mediaAsset": true,
+      "mediaId": "60c0631ea637ee11e31f1e28",
+      "id": "60c0631ea637ee11e31f1e28",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60c0638ba637ee11e3206eba",
+        "mediaId": "60c0631ea637ee11e31f1e28",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60c05b783f044ba8360f3e7e",
+        "folderOrder": "25250",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60c0631ea637ee11e31f1e28"
+      }
+    }
+  ],
+  "jackRoyle": [
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 4001,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "juice_15.png",
+      "path": "/assets/87e2189e-62ed-415e-a808-904948448cf5.png",
+      "width": 3422,
+      "mediaAsset": true,
+      "mediaId": "60b9c1c8a637ee11e3d7e444",
+      "id": "60b9c1c8a637ee11e3d7e444",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60b9c849a637ee11e3eaa76e",
+        "mediaId": "60b9c1c8a637ee11e3d7e444",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60b9c83143b7e4862def732e",
+        "folderOrder": "33000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60b9c1c8a637ee11e3d7e444"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 3617,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "sushi_6.png",
+      "path": "/assets/006cd99c-6495-4b2f-96a4-ef998f7151ad.png",
+      "width": 3045,
+      "mediaAsset": true,
+      "mediaId": "60b9c1c9a637ee11e3d7e6b5",
+      "id": "60b9c1c9a637ee11e3d7e6b5",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60b9c844a637ee11e3ea9c82",
+        "mediaId": "60b9c1c9a637ee11e3d7e6b5",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60b9c83143b7e4862def732e",
+        "folderOrder": "32000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60b9c1c9a637ee11e3d7e6b5"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "forSubscribers": true,
+      "height": 3341,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "pizza_28.png",
+      "path": "/assets/dcee76f6-2ac3-4493-9aa4-1d3eadc5e56a.png",
+      "width": 2945,
+      "mediaAsset": true,
+      "mediaId": "60b9c1c4a637ee11e3d7cc8d",
+      "id": "60b9c1c4a637ee11e3d7cc8d",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "60b9c869a637ee11e3eb0e14",
+        "mediaId": "60b9c1c4a637ee11e3d7cc8d",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "60b9c83143b7e4862def732e",
+        "folderOrder": "30250",
+        "favoriteType": "photo",
+        "favoriteMediaId": "60b9c1c4a637ee11e3d7cc8d"
+      }
+    }
+  ],
+  "illustrations": [
+    {
+      "elementType": "svgElement",
+      "height": 189,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Corona129_357225978.svg",
+      "path": "/assets/e3541df5-5857-4526-982f-074ea2885b0a.svg",
+      "width": 169,
+      "previewPath": "/previews/f7c64587-8c49-4e57-bce3-819ebeb940db.png",
+      "forSubscribers": false,
+      "mediaAsset": true,
+      "mediaId": "5e8b17e84b3890eb0720edae",
+      "id": "5e8b17e84b3890eb0720edae",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f341f45a637ee11e3cf1460",
+        "userId": "5942755379c13f001e996375",
+        "mediaId": "5e8b17e84b3890eb0720edae",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f217d45db21d5578cd530ea",
+        "folderOrder": "8111000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5e8b17e84b3890eb0720edae"
+      }
+    },
+    {
+      "path": "/assets/c0fa0588-a9f4-4d6c-9499-1f4cfa98d6c0.svg",
+      "originalName": "Depositphotos_125604536.svg",
+      "elementType": "svgElement",
+      "width": 820,
+      "height": 687,
+      "previewPath": "/assets/855da15f-ac9b-46fc-aeed-00ca4a01a13b.png",
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "forSubscribers": false,
+      "mediaAsset": true,
+      "mediaId": "5a3be0cb8c32ec6f8b3ffc7b",
+      "id": "5a3be0cb8c32ec6f8b3ffc7b",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f341f3da637ee11e3cef9c0",
+        "userId": "5942755379c13f001e996375",
+        "mediaId": "5a3be0cb8c32ec6f8b3ffc7b",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f217d45db21d5578cd530ea",
+        "folderOrder": "8110000",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5a3be0cb8c32ec6f8b3ffc7b"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "forSubscribers": true,
+      "height": 369,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "food12_193775014.svg",
+      "path": "/assets/a00eab6b-2b48-4723-b812-0235c13aebdb.svg",
+      "width": 367,
+      "previewPath": "/previews/f871f619-d9f8-4fd1-91e0-70c63758df4e.png",
+      "mediaAsset": true,
+      "mediaId": "604b1841a637ee11e30e292d",
+      "id": "604b1841a637ee11e30e292d",
+      "planType": "advanced",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "604b1d7da637ee11e31feef3",
+        "mediaId": "604b1841a637ee11e30e292d",
+        "isFavorite": true,
+        "removed": false,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f217d45db21d5578cd530ea",
+        "folderOrder": "8109000",
+        "favoriteType": "object",
+        "favoriteMediaId": "604b1841a637ee11e30e292d"
+      }
+    }
+  ],
+  "coronavirus": [
+    {
+      "elementType": "imageElement",
+      "height": 5874,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Corona86_357073766.png",
+      "path": "/free-assets/a2670c06-b3ec-4228-80bc-893b868c4831.png",
+      "width": 6952,
+      "forSubscribers": false,
+      "mediaAsset": true,
+      "mediaId": "5e8ca0954b3890eb07b3294c",
+      "id": "5e8ca0954b3890eb07b3294c",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f58742ea637ee11e3642b2a",
+        "userId": "5d6ccd90abc8ea6d1c35f95e",
+        "mediaId": "5e8ca0954b3890eb07b3294c",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5f587127f346fc0a50205c32",
+        "folderOrder": "157000",
+        "favoriteType": "photo",
+        "favoriteMediaId": "5e8ca0954b3890eb07b3294c"
+      }
+    },
+    {
+      "elementType": "imageElement",
+      "height": 4322,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Corona30_355576662.png",
+      "path": "/free-assets/18f2a603-8152-4c35-bc59-0931f91d993d.png",
+      "width": 6104,
+      "forSubscribers": false,
+      "mediaAsset": true,
+      "mediaId": "5e8b17e84b3890eb0720eb93",
+      "id": "5e8b17e84b3890eb0720eb93",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f58743fa637ee11e3644a90",
+        "userId": "5f3a8840a637ee11e330cb43",
+        "mediaId": "5e8b17e84b3890eb0720eb93",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "imageElement",
+        "hasAnimation": false,
+        "folderId": "5f587127f346fc0a50205c32",
+        "folderOrder": "156500",
+        "favoriteType": "photo",
+        "favoriteMediaId": "5e8b17e84b3890eb0720eb93"
+      }
+    },
+    {
+      "elementType": "svgElement",
+      "height": 222,
+      "meta": {
+        "vectorType": "illustration"
+      },
+      "originalName": "Corona116_354012994.svg",
+      "path": "/assets/04a6db87-b020-4c19-b7de-271b48c924dd.svg",
+      "width": 209,
+      "previewPath": "/previews/4820cdb9-ccb2-449b-afaa-c32cc256cee2.png",
+      "forSubscribers": false,
+      "mediaAsset": true,
+      "mediaId": "5e8b17e84b3890eb0720ef47",
+      "id": "5e8b17e84b3890eb0720ef47",
+      "isFreeItem": true,
+      "favoriteItem": {
+        "id": "5f587421a637ee11e36414de",
+        "userId": "5d6ccd90abc8ea6d1c35f95e",
+        "mediaId": "5e8b17e84b3890eb0720ef47",
+        "isFavorite": true,
+        "isBackground": false,
+        "mediaItemType": "svgElement",
+        "hasAnimation": false,
+        "folderId": "5f587127f346fc0a50205c32",
+        "folderOrder": "156250",
+        "favoriteType": "photoBackground",
+        "favoriteMediaId": "5e8b17e84b3890eb0720ef47"
+      }
+    }
+  ]
+}
